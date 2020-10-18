@@ -1,0 +1,29 @@
+.myNav {
+  background-color: #0d47a1 !important;
+  display: flex !important;
+  align-content: center;
+}
+
+.navLogo {
+  color: white !important;
+  font-size: 24px !important;
+}
+
+.navLink {
+  color: white !important;
+  text-decoration: none !important;
+  font-size: 18px;
+  margin: 0 10px 0 10px;
+}
+
+.navLink:hover {
+  color: #ffd54f !important;
+}
+
+.navIcon{
+  color: white !important;
+}
+
+.navIcon:hover {
+  color: #ffd54f !important;
+}

@@ -1,0 +1,36 @@
+.myInput {
+  background-image: linear-gradient(0deg,#080fd1 2px,rgba(0,150,136,0) 0),linear-gradient(0deg,rgba(0,0,0,.26) 1px,transparent 0);;
+}
+
+.submit_button {
+  background-color: #0d47a1 !important;
+}
+
+.submit_button:hover {
+  color: #ffd54f !important;
+}
+
+.formLable {
+  font-size: 18px;
+}
+
+.grayText {
+  color: gray;
+}
+
+.h2__style {
+  color: #1a237e;
+  font-weight: 800 !important;
+}
+
+.changePage__button:hover {
+  color: #0d47a1 !important;
+}
+
+.h2__form {
+  text-align: center;
+}
+
+.formFooter {
+  text-align: center;
+}
